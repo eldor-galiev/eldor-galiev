@@ -21,23 +21,23 @@
 - Английский язык: Intermediate
 
 ## Проекты
-# New Flappy Bird: GUI - приложение
+### New Flappy Bird: GUI - приложение
 - **Описание:** Игра, которая представляет собой сайд-скроллер, в котором игрок управляет птицей, пытающейся пролететь между колоннами зеленых труб, не задев их.
 - **Технологии:** Java, Java FX, Scene Builder
 - **GitHub:** [github.com/eldor-galiev/FlappyBird](https://github.com/eldor-galiev/FlappyBird)
 
-# Obesity classification: Учебный проект по машинному обучению
+### Obesity classification: Учебный проект по машинному обучению
 - **Описание:** Проект, который решает проблему классификации степени ожирения человека по его физическим параметрам.
 - **Технологии:** Python, Pandas, Numpy
 - **GitHub:** [github.com/eldor-galiev/ObesityClassification-ML-project](https://github.com/eldor-galiev/ObesityClassification-ML-project)
 
-# Best Bet: Веб-приложение
+### Best Bet: Веб-приложение
 - **Описание:** Приложение, которое предоставляет пользователям возможность выкладывать свои товары или услуги на аукцион, а также делать ставки.
 - **Технологии:** Java, Spring Boot, MySQL
 - **GitHub:** [github.com/eldor-galiev/BestBet](https://github.com/eldor-galiev/BestBet)
 
 ## Опыт работы
-# Junior Java Developer, 2023
+### Junior Java Developer, 2023
 Я работал в компании по разработке различного ПО и web-приложений ООО art project furniture service.
 
 ## Достижения
